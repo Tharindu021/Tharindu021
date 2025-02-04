@@ -10,7 +10,7 @@
   </li>
   <li>
     <b>Frontend Development:</b> 
-     I’m experienced in HTML5, CSS3, and JavaScript (ES6+), and I enjoy designing clean, user-friendly interfaces that deliver great experiences. I also work with Vue.js and have hands-on experience integrating APIs and handling asynchronous tasks. 
+     I’m experienced in HTML5, CSS3, and Vue.js, and I love creating clean, user-friendly interfaces that deliver exceptional experiences.
   </li>
   <li>
     <b>Version Control:</b> 
