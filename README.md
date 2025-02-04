@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Tharindu</h1>
-<br>
+
 <h3 align="left">I am a Trainee Full Stack Developer specializing in PHP and Laravel, with 1 year of hands-on experience. I love solving problems and creating strong, scalable web applications that truly help users.</h3>
-<br>
+
 <h1 align="left">💼 Professional Experience</h1>
 <ul>
   <li>
